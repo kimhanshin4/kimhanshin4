@@ -1,10 +1,9 @@
-<img src="https://github.com/kimhanshin4/kimhanshin4/blob/output/github-contribution-grid-snake.svg"/>
-
 ### 오케...바로갑니다. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhanshin42&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **kimhanshin4/kimhanshin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://github.com/kimhanshin4/kimhanshin4/blob/output/github-contribution-grid-snake.svg"/>
 
 Here are some ideas to get you started:
 
