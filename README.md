@@ -1,4 +1,4 @@
-<img src="https://github.com/kimhanshin4/kimhanshin4/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/kimhanshin4/kimhanshin4/blob/output/dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark.svg"/>
 
 
 ### 오케...바로갑니다. 👋
